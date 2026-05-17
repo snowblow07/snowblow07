@@ -11,11 +11,11 @@ Currently pursuing my B.S. in Computer Science in NYC.
 ## 🚀 Strategic Projects
 
 <div style="display:flex; gap:40px; align-items:center;">
-  <div>🧠 OmniGraph AI Ecosystem</div>
-  <div>🔌 KDS Network Interceptor</div>
+  <span>🌐 OmniGraph AI Ecosystem</span>
+  <span>🔌 KDS Network Interceptor</span>
 </div>
 
-### [🧠 OmniGraph AI Ecosystem](https://github.com/snowblow07/Flask-Graph-Content-Manager)
+### [🌐 OmniGraph AI Ecosystem](https://github.com/snowblow07/Flask-Graph-Content-Manager)
 *A persistent-memory RAG solution for intelligent content management.*
 *   **The Impact:** Built a scalable data pipeline using Neo4j graph databases to map complex contextual relationships for dynamic retrieval.
 

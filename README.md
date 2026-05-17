@@ -8,12 +8,12 @@ Currently pursuing my B.S. in Computer Science and building out the local tech e
 
 ### 🚀 Featured Architectures
 
-#### 🧠 OmniGraph AI Ecosystem
+#### [🧠 OmniGraph AI Ecosystem](https://github.com/snowblow07/Flask-Graph-Content-Manager)
 A comprehensive Retrieval-Augmented Generation (RAG) ecosystem designed for persistent memory and intelligent content management.
 *   **Architecture:** Engineered a scalable data pipeline utilizing non-relational graph databases to map, store, and retrieve complex contextual relationships dynamically.
 *   **Tech Stack:** Python, LangChain, Neo4j, Flask.
 
-#### 🔌 KDS Network Interceptor
+#### [🔌 KDS Network Interceptor] (https://github.com/snowblow07/Kivy-TouchKDS---Simple-Kitchen-Display-System)
 A multi-threaded TCP server built to modernize legacy hospitality workflows without requiring massive hardware overhauls.
 *   **Architecture:** Designed to intercept, parse, and reroute raw print payloads directly from legacy POS systems, translating legacy data into a modern, digitized Kitchen Display System (KDS) format.
 *   **Tech Stack:** Python, TCP Socket Programming, Raw Payload Processing.
@@ -23,4 +23,4 @@ A multi-threaded TCP server built to modernize legacy hospitality workflows with
 *   **AI & Database Architecture:** LangChain, LangGraph, RAG Systems, Neo4j (Graph), SQL (MySQL, MariaDB)
 *   **Frontend & Mobile:** Core Front-End Technologies, Kivy, Swift (SwiftUI, SwiftData)
 
-📫 **Let's Connect:** [linkedin.com/in/mroserop](https://www.linkedin.com/in/mroserop/) | [manuel.rosero@sheengreen.com](manuel.rosero@sheengreen.com)
+📫 **Let's Connect:** [linkedin.com/in/mroserop](https://www.linkedin.com/in/mroserop/) | [manuel.rosero@sheengreen.com](mailto:manuel.rosero@sheengreen.com)

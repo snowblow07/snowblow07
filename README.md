@@ -1,26 +1,40 @@
-# Hi, I'm Manuel 👋
+# Hi, I'm Manuel Rosero 👋
 
-**Systems Integration Engineer | Full-Stack Developer | AI Architectures**
+**[Systems Integration Engineer](https://github.com/snowblow07)** | **[Full-Stack Developer](https://github.com/snowblow07)** | **[AI Architectures](https://github.com/snowblow07)**
 
-I build bridges between legacy hardware environments and modern, scalable web architectures. With deep experience in Point of Sale (POS) infrastructure and field operations, I specialize in engineering robust, multi-threaded client-server applications that modernize outdated workflows and integrate cutting-edge AI. 
+I build bridges between **legacy hardware** and **modern, scalable web architectures**. I specialize in engineering robust, multi-threaded client-server applications that modernize outdated workflows and integrate cutting-edge AI.
 
-Currently pursuing my B.S. in Computer Science and building out the local tech ecosystem in NYC.
+Currently pursuing my B.S. in Computer Science in NYC.
 
-### 🚀 Featured Architectures
+***
 
-#### [🧠 OmniGraph AI Ecosystem](https://github.com/snowblow07/Flask-Graph-Content-Manager)
-A comprehensive Retrieval-Augmented Generation (RAG) ecosystem designed for persistent memory and intelligent content management.
-*   **Architecture:** Engineered a scalable data pipeline utilizing non-relational graph databases to map, store, and retrieve complex contextual relationships dynamically.
-*   **Tech Stack:** Python, LangChain, Neo4j, Flask.
+## 🚀 Strategic Projects
 
-#### [🔌 KDS Network Interceptor](https://github.com/snowblow07/Kivy-TouchKDS---Simple-Kitchen-Display-System)
-A multi-threaded TCP server built to modernize legacy hospitality workflows without requiring massive hardware overhauls.
-*   **Architecture:** Designed to intercept, parse, and reroute raw print payloads directly from legacy POS systems, translating legacy data into a modern, digitized Kitchen Display System (KDS) format.
-*   **Tech Stack:** Python, TCP Socket Programming, Raw Payload Processing.
+<p float="left">
+  <img src="https://via.placeholder.com/150/8FD400/FFFFFF?text=OmniGraph" alt="OmniGraph AI Ecosystem" width="300"/>
+  <img src="https://via.placeholder.com/150/8FD400/FFFFFF?text=KDS Interceptor" alt="KDS Network Interceptor" width="300"/>
+</p>
 
-### 🛠 Technical Arsenal
-*   **Backend & Networking:** Python (Flask, FastAPI), TCP Socket Programming, RESTful APIs
-*   **AI & Database Architecture:** LangChain, LangGraph, RAG Systems, Neo4j (Graph), SQL (MySQL, MariaDB)
-*   **Frontend & Mobile:** Core Front-End Technologies, Kivy, Swift (SwiftUI, SwiftData)
+### [🧠 OmniGraph AI Ecosystem](https://github.com/snowblow07/Flask-Graph-Content-Manager)
+*A persistent-memory RAG solution for intelligent content management.*
+*   **The Impact:** Built a scalable data pipeline using Neo4j graph databases to map complex contextual relationships for dynamic retrieval.
 
-📫 **Let's Connect:** [linkedin.com/in/mroserop](https://www.linkedin.com/in/mroserop/) | [manuel.rosero@sheengreen.com](mailto:manuel.rosero@sheengreen.com)
+### [🔌 KDS Network Interceptor](https://github.com/snowblow07/Kivy-TouchKDS---Simple-Kitchen-Display-System)
+*Modernizing legacy hospitality workflows through TCP packet interception.*
+*   **The Impact:** Designed a multi-threaded TCP server to parse and reroute raw print payloads, converting outdated POS output into digitized Kitchen Display System (KDS) feeds.
+
+***
+
+## 🛠 Top Technical Skills
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
+| | |
+| :--- | :--- |
+| **Backend** | Python (Flask, FastAPI), TCP Socket Programming, RESTful APIs |
+| **AI & DB** | LangChain, LangGraph, RAG Systems, Neo4j, SQL (MySQL, MariaDB) |
+| **Frontend** | Kivy, Swift (SwiftUI, SwiftData), Core Web Tech |
+
+***
+
+📫 **Connect:** [linkedin.com/in/mroserop](https://www.linkedin.com/in/mroserop/) | [manuel.rosero@sheengreen.com](mailto:manuel.rosero@sheengreen.com)

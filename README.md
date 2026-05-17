@@ -11,8 +11,8 @@ Currently pursuing my B.S. in Computer Science in NYC.
 ## 🚀 Strategic Projects
 
 <div style="display:flex; gap:40px; align-items:center;">
-  <div>🌐 OmniGraph AI Ecosystem</div>
-  <div>🛡️ KDS Network Interceptor</div>
+  <div>🧠 OmniGraph AI Ecosystem</div>
+  <div>🔌 KDS Network Interceptor</div>
 </div>
 
 ### [🧠 OmniGraph AI Ecosystem](https://github.com/snowblow07/Flask-Graph-Content-Manager)

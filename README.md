@@ -1,6 +1,6 @@
 # Hi, I'm Manuel Rosero 👋
 
-**Systems Integration Engineer** | **Full-Stack Developer** | **AI Architectures**
+**Systems Integration Engineer** | **Full-Stack Developer** | **AI RAG Developer**
 
 I build bridges between **legacy hardware** and **modern, scalable web architectures**. I specialize in engineering robust, multi-threaded client-server applications that modernize outdated workflows and integrate cutting-edge AI.
 

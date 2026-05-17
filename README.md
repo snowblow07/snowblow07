@@ -13,7 +13,7 @@ A comprehensive Retrieval-Augmented Generation (RAG) ecosystem designed for pers
 *   **Architecture:** Engineered a scalable data pipeline utilizing non-relational graph databases to map, store, and retrieve complex contextual relationships dynamically.
 *   **Tech Stack:** Python, LangChain, Neo4j, Flask.
 
-#### [🔌 KDS Network Interceptor] (https://github.com/snowblow07/Kivy-TouchKDS---Simple-Kitchen-Display-System)
+#### [🔌 KDS Network Interceptor](https://github.com/snowblow07/Kivy-TouchKDS---Simple-Kitchen-Display-System)
 A multi-threaded TCP server built to modernize legacy hospitality workflows without requiring massive hardware overhauls.
 *   **Architecture:** Designed to intercept, parse, and reroute raw print payloads directly from legacy POS systems, translating legacy data into a modern, digitized Kitchen Display System (KDS) format.
 *   **Tech Stack:** Python, TCP Socket Programming, Raw Payload Processing.

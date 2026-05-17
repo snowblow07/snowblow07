@@ -1,6 +1,6 @@
 # Hi, I'm Manuel Rosero 👋
 
-**[Systems Integration Engineer](https://github.com/snowblow07)** | **[Full-Stack Developer](https://github.com/snowblow07)** | **[AI Architectures](https://github.com/snowblow07)**
+**Systems Integration Engineer** | **Full-Stack Developer** | **AI Architectures**
 
 I build bridges between **legacy hardware** and **modern, scalable web architectures**. I specialize in engineering robust, multi-threaded client-server applications that modernize outdated workflows and integrate cutting-edge AI.
 

@@ -10,11 +10,6 @@ Currently pursuing my B.S. in Computer Science in NYC.
 
 ## 🚀 Strategic Projects
 
-<div style="display:flex; gap:40px; align-items:center;">
-  <span>🌐 OmniGraph AI Ecosystem</span>
-  <span>🔌 KDS Network Interceptor</span>
-</div>
-
 ### [🌐 OmniGraph AI Ecosystem](https://github.com/snowblow07/Flask-Graph-Content-Manager)
 *A persistent-memory RAG solution for intelligent content management.*
 *   **The Impact:** Built a scalable data pipeline using Neo4j graph databases to map complex contextual relationships for dynamic retrieval.
@@ -27,7 +22,7 @@ Currently pursuing my B.S. in Computer Science in NYC.
 
 ## 🛠 Top Technical Skills
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=flask) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](Flask-000000?style=for-the-badge&logo=Flask&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 | | |
 | :--- | :--- |
